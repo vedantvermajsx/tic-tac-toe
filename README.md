@@ -1,35 +1,79 @@
-Tic Tac Toe
+# Tic Tac Toe
 
-A simple and elegant Tic Tac Toe game built using HTML, CSS, and JavaScript. Designed with a clean interface and smooth user interaction.
+A simple, clean Tic Tac Toe game built using HTML, CSS, and JavaScript.  
+Focused on minimal design and smooth interaction.
 
-Features
-Two-player gameplay (X and O)
-Instant win and draw detection
-Reset functionality
-Responsive layout for different screen sizes
-Tech Stack
-HTML
-CSS
-JavaScript
-Getting Started
+---
+
+## Overview
+
+This project implements the classic two-player Tic Tac Toe game in the browser without any external libraries. It is lightweight, responsive, and easy to understand.
+
+---
+
+## Features
+
+- Two-player gameplay (X and O)
+- Automatic win and draw detection
+- Restart functionality
+- Responsive design
+
+---
+
+## Tech Stack
+
+| Technology | Purpose        |
+|------------|----------------|
+| HTML       | Structure      |
+| CSS        | Styling        |
+| JavaScript | Game Logic     |
+
+---
+
+## Getting Started
+
+### Clone the repository
+
+```bash
 git clone https://github.com/vedantvermajsx/tic-tac-toe.git
 cd tic-tac-toe
+```
 
-Open index.html in your browser to run the game.
+### Run the project
 
-Game Rules
-Players take turns placing X and O on the grid
-The first player to align three marks horizontally, vertically, or diagonally wins
-If all cells are filled without a winner, the game ends in a draw
-Project Structure
+Open `index.html` in your browser.
+
+---
+
+## Game Rules
+
+1. Players take turns marking the grid  
+2. The first player to align three marks wins  
+3. Alignments can be:
+   - Horizontal  
+   - Vertical  
+   - Diagonal  
+4. If all cells are filled without a winner, the game is a draw  
+
+---
+
+## Project Structure
+
+```
 tic-tac-toe/
-│── index.html
-│── style.css
-│── script.js
+├── index.html
+├── style.css
+└── script.js
+```
 
-Author
-Vedant Verma
+---
 
-License
+## Author
 
-This project is open-source and available for use and modification.
+Vedant Verma  
+
+---
+
+## License
+
+This project is open-source and free to use.
