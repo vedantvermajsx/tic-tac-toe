@@ -12,7 +12,7 @@ HTML
 CSS
 JavaScript
 Getting Started
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/vedantvermajsx/tic-tac-toe.git
 cd tic-tac-toe
 
 Open index.html in your browser to run the game.
